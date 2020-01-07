@@ -1,0 +1,29 @@
+/**************************TAG SELECTORS*************************/
+
+body {
+
+  font-family: cursive;
+  text-align: center;
+  background-position: 50% -50%;
+  background-color: #ffb99a;
+  background-repeat: no-repeat;
+  text-shadow: 5px 5px 10px #9d0b0b;
+
+
+}
+
+h1 {
+
+  color: black;
+  text-shadow: 5px 5px 10px #9d0b0b;
+  text-transform: capitalize;
+}
+
+/*************Class Selectors******************************************/
+
+.pig {
+
+  background-color: #ffb99a;
+
+
+}
